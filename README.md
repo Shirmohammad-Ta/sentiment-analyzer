@@ -1,8 +1,8 @@
-# 🧠 Sentiment Analyzer
+#  Sentiment Analyzer
 
 A modular Python project for sentiment analysis on user reviews using traditional machine learning methods.
 
-## 📦 Features
+##  Features
 
 - Clean architecture with modular components
 - Text preprocessing with NLTK
@@ -13,7 +13,7 @@ A modular Python project for sentiment analysis on user reviews using traditiona
 - Interactive UI with Streamlit
 - Unit tests with unittest framework
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install dependencies:
    ```
@@ -35,7 +35,7 @@ A modular Python project for sentiment analysis on user reviews using traditiona
    python src/api.py
    ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 sentiment-analyzer/
