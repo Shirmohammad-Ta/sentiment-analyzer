@@ -50,3 +50,7 @@ sentiment-analyzer/
 ├── README.md
 └── LICENSE
 ```
+
+##  License
+
+This repository is released under the MIT License.
